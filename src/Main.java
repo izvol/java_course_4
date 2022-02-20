@@ -3,5 +3,10 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello, GITHUB!");
+
+        String name = "Vlad";
+        System.out.println(name);
+
     }
+
 }
